@@ -29,7 +29,7 @@ var myTheme = {
 		},1000);
 		var tit = $exe_i18n.menu+" ("+$exe_i18n.hide.toLowerCase()+")";
 		var navToggler = '<p id="header-options">';
-				navToggler += '<a href="#" class="hide-nav" id="toggle-nav" title="'+tit+'">';
+				navToggler += '<a href="./#" class="hide-nav" id="toggle-nav" title="'+tit+'">';
 					navToggler += '<span>'+$exe_i18n.menu+'</span>';
 				navToggler += '</a>';
 			navToggler += '</p>';
@@ -65,7 +65,7 @@ var myTheme = {
 		},1000);
 		var tit = $exe_i18n.menu+" ("+$exe_i18n.hide.toLowerCase()+")";
 		var navToggler = '<p id="header-options">';
-				navToggler += '<a href="#" class="hide-nav" id="toggle-nav" title="'+tit+'">';
+				navToggler += '<a href="./#" class="hide-nav" id="toggle-nav" title="'+tit+'">';
 					navToggler += '<span>'+$exe_i18n.menu+'</span>';
 				navToggler += '</a>';
 			navToggler += '</p>';
