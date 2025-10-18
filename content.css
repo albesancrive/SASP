@@ -62,7 +62,7 @@ section.previousnext{display:none}
 .iDevice_inner{margin-top:1px;padding:10px 20px 20px 20px;background:#fff;box-shadow:0px 18px 16px -6px rgba(0,0,0,0.37);border:1px solid #0065AB}
 .iDeviceTitle{color:#0065AB}
 /* iDevice icons */
-.iDevice_header{background:url(icon_udl_exp_interactivo.svg) no-repeat 0 50%;padding:5px 0 5px 80px;position:relative;min-height:60px}
+.iDevice_header{background:url(./icon_udl_exp_interactivo.svg) no-repeat 0 50%;padding:5px 0 5px 80px;position:relative;min-height:60px}
 .iDevice .iDevice_header.iDevice_header_noIcon{padding:0 0 0 10px;background-image:none}
 /* Buttons */
 .feedbackbutton,.feedback-button input,.iDevice_buttons input{text-decoration:none;background-color:#0065ab;padding:.3em 1em;color:#fff;transition:background-color 0.4s ease-in-out;display:inline-block;border:none;cursor:pointer}
@@ -71,8 +71,8 @@ section.previousnext{display:none}
 .emphasis0 .feedbackbutton,.emphasis0 .feedback-button input,.emphasis0 .iDevice_buttons input{background-color:#872C1A}
 .emphasis0 .feedbackbutton:hover,.emphasis0 .feedback-button input:hover,.emphasis0 .iDevice_buttons input:hover{background-color:#641C0E}
 
-.activityIdevice .iDevice_header{background-image:url(icon_udl_exp_actividad.svg)}
-.readingIdevice .iDevice_header{background-image:url(icon_udl_exp_lee.svg)}
+.activityIdevice .iDevice_header{background-image:url(./icon_udl_exp_actividad.svg)}
+.readingIdevice .iDevice_header{background-image:url(./icon_udl_exp_lee.svg)}
 
 .iDevice_wrapper[class*='em_iDevice_udl_exp'] .exe-table,
 .UDLcontentIdevice-exp .exe-table{border-color:#0065ab}
@@ -100,12 +100,12 @@ section.previousnext{display:none}
 .OrientacionestutoriafpdIdevice .iDevice_inner,
 .UDLcontentIdevice-eng .iDevice_inner{border-color:#499113}
 
-.objectivesIdevice .iDevice_header{background-image:url(icon_udl_eng_objetivos.svg)}
-.download-packageIdevice .iDevice_header{background-image:url(icon_udl_eng_descarga.svg);padding-left:95px}
-.RssIdevice .iDevice_header{background-image:url(icon_udl_eng_rss.svg)}
-.RubricIdevice .iDevice_header{background-image:url(icon_udl_eng_rubrica.svg)}
+.objectivesIdevice .iDevice_header{background-image:url(./icon_udl_eng_objetivos.svg)}
+.download-packageIdevice .iDevice_header{background-image:url(./icon_udl_eng_descarga.svg);padding-left:95px}
+.RssIdevice .iDevice_header{background-image:url(./icon_udl_eng_rss.svg)}
+.RubricIdevice .iDevice_header{background-image:url(./icon_udl_eng_rubrica.svg)}
 .OrientacionesalumnadofpdIdevice .iDevice_header,
-.OrientacionestutoriafpdIdevice .iDevice_header{background-image:url(icon_udl_eng_rubrica.svg)}
+.OrientacionestutoriafpdIdevice .iDevice_header{background-image:url(./icon_udl_eng_rubrica.svg)}
 
 .iDevice_wrapper[class*='em_iDevice_udl_eng'] .exe-table,
 .UDLcontentIdevice-eng .exe-table{background:#fff;border-color:#499113}
@@ -154,20 +154,20 @@ section.previousnext{display:none}
 .WikipediaIdevice .iDevice_inner,
 .UDLcontentIdevice-rep .iDevice_inner{border-color:#784aba}
 
-.GalleryIdevice .iDevice_header{background-image:url(icon_udl_rep_galeria.svg)}
-.FileAttachIdeviceInc .iDevice_header{background-image:url(icon_udl_rep_adjunto.svg)}
+.GalleryIdevice .iDevice_header{background-image:url(./icon_udl_rep_galeria.svg)}
+.FileAttachIdeviceInc .iDevice_header{background-image:url(./icon_udl_rep_adjunto.svg)}
 .CasopracticofpdIdevice .iDevice_header,
-.CasestudyIdevice .iDevice_header{background-image:url(icon_udl_rep_caso.svg)}
+.CasestudyIdevice .iDevice_header{background-image:url(./icon_udl_rep_caso.svg)}
 .CitasparapensarfpdIdevice .iDevice_header,
 .ReflectionfpdIdevice .iDevice_header,
 .ReflectionfpdmodifIdevice .iDevice_header,
-.ReflectionIdevice .iDevice_header{background-image:url(icon_udl_rep_reflexion.svg)}
-.EjercicioresueltofpdIdevice .iDevice_header{background-image:url(icon_udl_rep_ejemplo.svg)}
+.ReflectionIdevice .iDevice_header{background-image:url(./icon_udl_rep_reflexion.svg)}
+.EjercicioresueltofpdIdevice .iDevice_header{background-image:url(./icon_udl_rep_ejemplo.svg)}
 .ParasabermasfpdIdevice .iDevice_header,
-.WikipediaIdevice .iDevice_header{background-image:url(icon_udl_rep_informarse.svg)}
-.RecomendacionfpdIdevice .iDevice_header{background-image:url(icon_udl_rep_recomienda.svg)}
+.WikipediaIdevice .iDevice_header{background-image:url(./icon_udl_rep_informarse.svg)}
+.RecomendacionfpdIdevice .iDevice_header{background-image:url(./icon_udl_rep_recomienda.svg)}
 .DebesconocerfpdIdevice .iDevice_header,
-.preknowledgeIdevice .iDevice_header{background-image:url(icon_udl_rep_conocer.svg)}
+.preknowledgeIdevice .iDevice_header{background-image:url(./icon_udl_rep_conocer.svg)}
 
 .iDevice_wrapper[class*='em_iDevice_udl_rep'] .exe-table,
 .UDLcontentIdevice-rep .exe-table{background:#fff;border-color:#784aba}
